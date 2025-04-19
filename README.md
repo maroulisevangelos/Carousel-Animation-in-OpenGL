@@ -57,14 +57,14 @@ Features:
 
 Implementation Details:
 
-  Developed entirely in OpenGL.
-  
-  Focused on modular construction and extensibility.
-  
-  Includes detailed comments for easy understanding and debugging.
+    Developed entirely in OpenGL.
+    
+    Focused on modular construction and extensibility.
+    
+    Includes detailed comments for easy understanding and debugging.
 
 Challenges and Notes:
 
-  Comments within the code highlight partial implementations (e.g., sunlight simulation).
-  
-  The main file contains attempts to implement camera rotation.
+    Comments within the code highlight partial implementations (e.g., sunlight simulation).
+    
+    The main file contains attempts to implement camera rotation.
